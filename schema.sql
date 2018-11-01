@@ -2,7 +2,7 @@
 
 create table players (
     id serial primary key,
-    name varchar(100),
+    name varchar(100)
     -- games_won integer
 );
 
